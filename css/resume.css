@@ -183,4 +183,41 @@ img{
 img:hover{
   transform: scale(1.2);
 }
+  #projects {
+    margin-top: 20px;
+  }
+
+  .project {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+
+  .project-image img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+  }
+
+  .project-info {
+    flex: 1;
+  }
+
+  .project-info h3 {
+    margin-top: 0;
+  }
+
+  .project-info p {
+    margin-bottom: 10px;
+  }
+
+  .project-info a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
 
