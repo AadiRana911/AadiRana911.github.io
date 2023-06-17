@@ -184,16 +184,12 @@ img:hover{
   transform: scale(1.2);
 }
 
-  .badge {
-    display: inline-block;
-    padding: 8px 12px;
-    margin-right: 8px;
-    background-color: #f1f1f1;
-    color: #333;
-    border-radius: 4px;
-    font-size: 14px;
-    font-weight: bold;
-  }
+ .tech-stack {
+   font-size: 24px;
+ }
 
-
+ .tech-stack i {
+   margin-right: 8px;
+   color: #333;
+ }
 
