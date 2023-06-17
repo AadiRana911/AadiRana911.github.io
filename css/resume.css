@@ -192,12 +192,13 @@ img:hover{
     margin-bottom: 20px;
     align-items: center;
   }
-.project-image img {
-  width: 200px;
-  height: 200px;
+
+  .project-image img {
+  max-width: 200px;
+  height: auto;
   margin-right: 20px;
   object-fit: cover;
-}
+  }
 
   .project-info {
     flex: 1;
