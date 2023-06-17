@@ -192,13 +192,6 @@ img:hover{
     margin-bottom: 20px;
     align-items: center;
   }
-
-  .project-image img {
-  max-width: 100px;
-  max-height: 200px;
-  margin-right: 20px;
-  object-fit: contain;
-}
   .project-info {
     flex: 1;
   }
