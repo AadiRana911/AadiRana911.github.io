@@ -195,11 +195,10 @@ img:hover{
 
   .project-image img {
   max-width: 200px;
-  height: auto;
+  max-height: 200px;
   margin-right: 20px;
-  object-fit: cover;
-  }
-
+  object-fit: contain;
+}
   .project-info {
     flex: 1;
   }
