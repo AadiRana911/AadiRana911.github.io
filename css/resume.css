@@ -191,5 +191,11 @@ img:hover{
     margin-right: 8px;
     color: #333;
   }
+.resume-image {
+    height: auto;
+    max-height: 200px; /* Adjust the max height as needed */
+    width: 100%;
+    object-fit: contain;
+  }
 
 
