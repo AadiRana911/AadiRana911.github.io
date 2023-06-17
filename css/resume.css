@@ -194,7 +194,7 @@ img:hover{
   }
 
   .project-image img {
-  max-width: 200px;
+  max-width: 100px;
   max-height: 200px;
   margin-right: 20px;
   object-fit: contain;
