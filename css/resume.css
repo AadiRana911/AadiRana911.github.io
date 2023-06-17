@@ -213,4 +213,8 @@ img:hover{
     border-radius: 5px;
   }
 
+.project-info a:hover {
+  background-color: #0056b3;
+}
+
 
